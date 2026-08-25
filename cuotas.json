@@ -1,0 +1,2402 @@
+[
+  {
+    "id_vendedor": "V001",
+    "periodo": "2024-01",
+    "cuota_mensual": 36349574.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2024-02",
+    "cuota_mensual": 17790799.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2024-03",
+    "cuota_mensual": 42638232.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2024-04",
+    "cuota_mensual": 41918624.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2024-05",
+    "cuota_mensual": 30592777.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2024-06",
+    "cuota_mensual": 36025407.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2024-07",
+    "cuota_mensual": 26174759.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2024-08",
+    "cuota_mensual": 44236644.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2024-09",
+    "cuota_mensual": 17547073.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2024-10",
+    "cuota_mensual": 17867310.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2024-11",
+    "cuota_mensual": 19005416.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2024-12",
+    "cuota_mensual": 39598887.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2025-01",
+    "cuota_mensual": 17244915.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2025-02",
+    "cuota_mensual": 32034622.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2025-03",
+    "cuota_mensual": 28049486.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V001",
+    "periodo": "2025-04",
+    "cuota_mensual": 43926548.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2024-01",
+    "cuota_mensual": 22103152.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2024-02",
+    "cuota_mensual": 22829728.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2024-03",
+    "cuota_mensual": 24450267.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2024-04",
+    "cuota_mensual": 39024505.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2024-05",
+    "cuota_mensual": 36021768.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2024-06",
+    "cuota_mensual": 37060586.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2024-07",
+    "cuota_mensual": 24541732.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2024-08",
+    "cuota_mensual": 23158676.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2024-09",
+    "cuota_mensual": 17240623.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2024-10",
+    "cuota_mensual": 21081379.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2024-11",
+    "cuota_mensual": 38398109.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2024-12",
+    "cuota_mensual": 32541241.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2025-01",
+    "cuota_mensual": 19662317.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2025-02",
+    "cuota_mensual": 19931249.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2025-03",
+    "cuota_mensual": 28981653.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V002",
+    "periodo": "2025-04",
+    "cuota_mensual": 27195377.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2024-01",
+    "cuota_mensual": 31077736.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2024-02",
+    "cuota_mensual": 43939042.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2024-03",
+    "cuota_mensual": 21229087.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2024-04",
+    "cuota_mensual": 24249232.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2024-05",
+    "cuota_mensual": 22950238.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2024-06",
+    "cuota_mensual": 18597407.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2024-07",
+    "cuota_mensual": 19728461.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2024-08",
+    "cuota_mensual": 35581645.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2024-09",
+    "cuota_mensual": 39791601.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2024-10",
+    "cuota_mensual": 35906339.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2024-11",
+    "cuota_mensual": 16209894.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2024-12",
+    "cuota_mensual": 40077743.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2025-01",
+    "cuota_mensual": 24833810.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2025-02",
+    "cuota_mensual": 17736387.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2025-03",
+    "cuota_mensual": 22446564.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V003",
+    "periodo": "2025-04",
+    "cuota_mensual": 25672283.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2024-01",
+    "cuota_mensual": 30403790.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2024-02",
+    "cuota_mensual": 35315501.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2024-03",
+    "cuota_mensual": 22805004.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2024-04",
+    "cuota_mensual": 44720299.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2024-05",
+    "cuota_mensual": 15932463.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2024-06",
+    "cuota_mensual": 27131767.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2024-07",
+    "cuota_mensual": 28566035.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2024-08",
+    "cuota_mensual": 37442353.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2024-09",
+    "cuota_mensual": 22495579.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2024-10",
+    "cuota_mensual": 28861297.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2024-11",
+    "cuota_mensual": 39116903.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2024-12",
+    "cuota_mensual": 19193791.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2025-01",
+    "cuota_mensual": 15358708.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2025-02",
+    "cuota_mensual": 39911170.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2025-03",
+    "cuota_mensual": 44477017.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V004",
+    "periodo": "2025-04",
+    "cuota_mensual": 18921457.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2024-01",
+    "cuota_mensual": 39710202.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2024-02",
+    "cuota_mensual": 26167192.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2024-03",
+    "cuota_mensual": 33908926.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2024-04",
+    "cuota_mensual": 34340550.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2024-05",
+    "cuota_mensual": 32469714.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2024-06",
+    "cuota_mensual": 22764620.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2024-07",
+    "cuota_mensual": 39382413.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2024-08",
+    "cuota_mensual": 15654005.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2024-09",
+    "cuota_mensual": 16934161.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2024-10",
+    "cuota_mensual": 42074882.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2024-11",
+    "cuota_mensual": 28302940.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2024-12",
+    "cuota_mensual": 18863746.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2025-01",
+    "cuota_mensual": 42152339.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2025-02",
+    "cuota_mensual": 39880685.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2025-03",
+    "cuota_mensual": 24946497.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V005",
+    "periodo": "2025-04",
+    "cuota_mensual": 16280890.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2024-01",
+    "cuota_mensual": 28829848.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2024-02",
+    "cuota_mensual": 20039676.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2024-03",
+    "cuota_mensual": 32216526.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2024-04",
+    "cuota_mensual": 39650562.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2024-05",
+    "cuota_mensual": 26849961.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2024-06",
+    "cuota_mensual": 15884469.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2024-07",
+    "cuota_mensual": 35496388.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2024-08",
+    "cuota_mensual": 20184216.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2024-09",
+    "cuota_mensual": 21441483.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2024-10",
+    "cuota_mensual": 20614533.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2024-11",
+    "cuota_mensual": 23395637.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2024-12",
+    "cuota_mensual": 41502714.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2025-01",
+    "cuota_mensual": 16039483.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2025-02",
+    "cuota_mensual": 33575296.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2025-03",
+    "cuota_mensual": 22373543.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V006",
+    "periodo": "2025-04",
+    "cuota_mensual": 23853155.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2024-01",
+    "cuota_mensual": 27359766.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2024-02",
+    "cuota_mensual": 31520660.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2024-03",
+    "cuota_mensual": 16829372.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2024-04",
+    "cuota_mensual": 23393280.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2024-05",
+    "cuota_mensual": 19117081.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2024-06",
+    "cuota_mensual": 20983734.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2024-07",
+    "cuota_mensual": 41539575.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2024-08",
+    "cuota_mensual": 30774422.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2024-09",
+    "cuota_mensual": 33922632.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2024-10",
+    "cuota_mensual": 39065042.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2024-11",
+    "cuota_mensual": 38845387.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2024-12",
+    "cuota_mensual": 44682108.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2025-01",
+    "cuota_mensual": 38457473.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2025-02",
+    "cuota_mensual": 25773363.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2025-03",
+    "cuota_mensual": 31335534.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V007",
+    "periodo": "2025-04",
+    "cuota_mensual": 29540385.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2024-01",
+    "cuota_mensual": 42380310.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2024-02",
+    "cuota_mensual": 30071798.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2024-03",
+    "cuota_mensual": 26651438.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2024-04",
+    "cuota_mensual": 20394476.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2024-05",
+    "cuota_mensual": 24566327.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2024-06",
+    "cuota_mensual": 21570606.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2024-07",
+    "cuota_mensual": 41872943.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2024-08",
+    "cuota_mensual": 38356148.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2024-09",
+    "cuota_mensual": 16757737.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2024-10",
+    "cuota_mensual": 44745940.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2024-11",
+    "cuota_mensual": 30882969.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2024-12",
+    "cuota_mensual": 38005265.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2025-01",
+    "cuota_mensual": 44988172.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2025-02",
+    "cuota_mensual": 44219396.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2025-03",
+    "cuota_mensual": 18004030.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V008",
+    "periodo": "2025-04",
+    "cuota_mensual": 34705933.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2024-01",
+    "cuota_mensual": 22995810.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2024-02",
+    "cuota_mensual": 39488555.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2024-03",
+    "cuota_mensual": 42517784.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2024-04",
+    "cuota_mensual": 16677260.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2024-05",
+    "cuota_mensual": 44891761.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2024-06",
+    "cuota_mensual": 21582348.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2024-07",
+    "cuota_mensual": 40395153.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2024-08",
+    "cuota_mensual": 38921721.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2024-09",
+    "cuota_mensual": 25644139.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2024-10",
+    "cuota_mensual": 40176668.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2024-11",
+    "cuota_mensual": 40356627.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2024-12",
+    "cuota_mensual": 20283011.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2025-01",
+    "cuota_mensual": 32775585.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2025-02",
+    "cuota_mensual": 39186307.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2025-03",
+    "cuota_mensual": 35928797.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V009",
+    "periodo": "2025-04",
+    "cuota_mensual": 42419400.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2024-01",
+    "cuota_mensual": 15846197.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2024-02",
+    "cuota_mensual": 36016824.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2024-03",
+    "cuota_mensual": 43426762.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2024-04",
+    "cuota_mensual": 31908195.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2024-05",
+    "cuota_mensual": 31893267.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2024-06",
+    "cuota_mensual": 20647010.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2024-07",
+    "cuota_mensual": 44640186.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2024-08",
+    "cuota_mensual": 41448791.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2024-09",
+    "cuota_mensual": 29766802.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2024-10",
+    "cuota_mensual": 24271592.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2024-11",
+    "cuota_mensual": 29713093.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2024-12",
+    "cuota_mensual": 17707721.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2025-01",
+    "cuota_mensual": 21978701.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2025-02",
+    "cuota_mensual": 21564268.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2025-03",
+    "cuota_mensual": 30793455.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V010",
+    "periodo": "2025-04",
+    "cuota_mensual": 15020505.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2024-01",
+    "cuota_mensual": 42536886.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2024-02",
+    "cuota_mensual": 21043932.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2024-03",
+    "cuota_mensual": 18914686.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2024-04",
+    "cuota_mensual": 36508129.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2024-05",
+    "cuota_mensual": 42563424.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2024-06",
+    "cuota_mensual": 40328523.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2024-07",
+    "cuota_mensual": 24707664.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2024-08",
+    "cuota_mensual": 15657387.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2024-09",
+    "cuota_mensual": 32598275.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2024-10",
+    "cuota_mensual": 42516724.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2024-11",
+    "cuota_mensual": 38230995.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2024-12",
+    "cuota_mensual": 40394427.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2025-01",
+    "cuota_mensual": 40820084.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2025-02",
+    "cuota_mensual": 43816763.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2025-03",
+    "cuota_mensual": 26207723.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V011",
+    "periodo": "2025-04",
+    "cuota_mensual": 43257696.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2024-01",
+    "cuota_mensual": 26867867.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2024-02",
+    "cuota_mensual": 18030965.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2024-03",
+    "cuota_mensual": 24052955.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2024-04",
+    "cuota_mensual": 19093550.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2024-05",
+    "cuota_mensual": 19725117.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2024-06",
+    "cuota_mensual": 43460806.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2024-07",
+    "cuota_mensual": 38755276.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2024-08",
+    "cuota_mensual": 43819863.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2024-09",
+    "cuota_mensual": 34475408.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2024-10",
+    "cuota_mensual": 20226080.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2024-11",
+    "cuota_mensual": 44062287.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2024-12",
+    "cuota_mensual": 35806812.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2025-01",
+    "cuota_mensual": 42865356.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2025-02",
+    "cuota_mensual": 38609754.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2025-03",
+    "cuota_mensual": 21697116.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V012",
+    "periodo": "2025-04",
+    "cuota_mensual": 32668505.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2024-01",
+    "cuota_mensual": 20260549.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2024-02",
+    "cuota_mensual": 24204697.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2024-03",
+    "cuota_mensual": 35654953.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2024-04",
+    "cuota_mensual": 18820451.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2024-05",
+    "cuota_mensual": 36864929.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2024-06",
+    "cuota_mensual": 43463643.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2024-07",
+    "cuota_mensual": 43460945.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2024-08",
+    "cuota_mensual": 26748043.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2024-09",
+    "cuota_mensual": 44828494.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2024-10",
+    "cuota_mensual": 43955518.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2024-11",
+    "cuota_mensual": 15971482.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2024-12",
+    "cuota_mensual": 33071660.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2025-01",
+    "cuota_mensual": 42631146.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2025-02",
+    "cuota_mensual": 44025951.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2025-03",
+    "cuota_mensual": 21626858.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V013",
+    "periodo": "2025-04",
+    "cuota_mensual": 31966507.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2024-01",
+    "cuota_mensual": 43100634.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2024-02",
+    "cuota_mensual": 19219301.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2024-03",
+    "cuota_mensual": 37360300.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2024-04",
+    "cuota_mensual": 22139878.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2024-05",
+    "cuota_mensual": 44471390.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2024-06",
+    "cuota_mensual": 20036623.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2024-07",
+    "cuota_mensual": 41559608.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2024-08",
+    "cuota_mensual": 17661780.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2024-09",
+    "cuota_mensual": 36268974.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2024-10",
+    "cuota_mensual": 34173081.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2024-11",
+    "cuota_mensual": 41599605.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2024-12",
+    "cuota_mensual": 28398898.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2025-01",
+    "cuota_mensual": 22956373.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2025-02",
+    "cuota_mensual": 22486226.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2025-03",
+    "cuota_mensual": 17033843.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V014",
+    "periodo": "2025-04",
+    "cuota_mensual": 22699738.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2024-01",
+    "cuota_mensual": 18241038.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2024-02",
+    "cuota_mensual": 15038435.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2024-03",
+    "cuota_mensual": 26578113.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2024-04",
+    "cuota_mensual": 36977535.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2024-05",
+    "cuota_mensual": 44073055.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2024-06",
+    "cuota_mensual": 41536560.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2024-07",
+    "cuota_mensual": 29792460.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2024-08",
+    "cuota_mensual": 26361377.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2024-09",
+    "cuota_mensual": 31380719.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2024-10",
+    "cuota_mensual": 18042857.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2024-11",
+    "cuota_mensual": 29384678.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2024-12",
+    "cuota_mensual": 40921522.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2025-01",
+    "cuota_mensual": 34529087.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2025-02",
+    "cuota_mensual": 35614812.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2025-03",
+    "cuota_mensual": 19879695.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V015",
+    "periodo": "2025-04",
+    "cuota_mensual": 17211282.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2024-01",
+    "cuota_mensual": 40372875.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2024-02",
+    "cuota_mensual": 23847258.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2024-03",
+    "cuota_mensual": 24561507.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2024-04",
+    "cuota_mensual": 43549864.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2024-05",
+    "cuota_mensual": 17226012.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2024-06",
+    "cuota_mensual": 20103156.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2024-07",
+    "cuota_mensual": 26263737.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2024-08",
+    "cuota_mensual": 36959553.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2024-09",
+    "cuota_mensual": 31411388.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2024-10",
+    "cuota_mensual": 41943725.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2024-11",
+    "cuota_mensual": 17793141.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2024-12",
+    "cuota_mensual": 32820916.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2025-01",
+    "cuota_mensual": 33409342.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2025-02",
+    "cuota_mensual": 29482104.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2025-03",
+    "cuota_mensual": 15929796.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V016",
+    "periodo": "2025-04",
+    "cuota_mensual": 43273268.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2024-01",
+    "cuota_mensual": 19949916.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2024-02",
+    "cuota_mensual": 41692598.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2024-03",
+    "cuota_mensual": 19713113.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2024-04",
+    "cuota_mensual": 18037734.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2024-05",
+    "cuota_mensual": 21166514.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2024-06",
+    "cuota_mensual": 20699528.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2024-07",
+    "cuota_mensual": 35915901.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2024-08",
+    "cuota_mensual": 36661143.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2024-09",
+    "cuota_mensual": 36899220.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2024-10",
+    "cuota_mensual": 22957943.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2024-11",
+    "cuota_mensual": 23445692.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2024-12",
+    "cuota_mensual": 22126449.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2025-01",
+    "cuota_mensual": 16489063.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2025-02",
+    "cuota_mensual": 32153094.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2025-03",
+    "cuota_mensual": 40195635.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V017",
+    "periodo": "2025-04",
+    "cuota_mensual": 19607698.0,
+    "region": "Andina"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2024-01",
+    "cuota_mensual": 25824868.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2024-02",
+    "cuota_mensual": 27828179.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2024-03",
+    "cuota_mensual": 23836483.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2024-04",
+    "cuota_mensual": 34860607.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2024-05",
+    "cuota_mensual": 33006466.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2024-06",
+    "cuota_mensual": 20990244.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2024-07",
+    "cuota_mensual": 15772071.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2024-08",
+    "cuota_mensual": 20124966.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2024-09",
+    "cuota_mensual": 23754344.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2024-10",
+    "cuota_mensual": 17458083.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2024-11",
+    "cuota_mensual": 40313072.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2024-12",
+    "cuota_mensual": 24250602.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2025-01",
+    "cuota_mensual": 26924020.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2025-02",
+    "cuota_mensual": 29672904.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2025-03",
+    "cuota_mensual": 34831202.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V018",
+    "periodo": "2025-04",
+    "cuota_mensual": 17734106.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2024-01",
+    "cuota_mensual": 31323781.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2024-02",
+    "cuota_mensual": 20546437.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2024-03",
+    "cuota_mensual": 41564781.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2024-04",
+    "cuota_mensual": 26082050.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2024-05",
+    "cuota_mensual": 28373258.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2024-06",
+    "cuota_mensual": 22898879.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2024-07",
+    "cuota_mensual": 28951739.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2024-08",
+    "cuota_mensual": 21787268.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2024-09",
+    "cuota_mensual": 23056860.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2024-10",
+    "cuota_mensual": 16849181.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2024-11",
+    "cuota_mensual": 37567054.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2024-12",
+    "cuota_mensual": 35024054.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2025-01",
+    "cuota_mensual": 17571219.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2025-02",
+    "cuota_mensual": 25313742.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2025-03",
+    "cuota_mensual": 31243470.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V019",
+    "periodo": "2025-04",
+    "cuota_mensual": 44121166.0,
+    "region": "PACIFICA"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2024-01",
+    "cuota_mensual": 32691793.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2024-02",
+    "cuota_mensual": 31608057.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2024-03",
+    "cuota_mensual": 40223915.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2024-04",
+    "cuota_mensual": 39552156.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2024-05",
+    "cuota_mensual": 27558962.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2024-06",
+    "cuota_mensual": 31065432.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2024-07",
+    "cuota_mensual": 41006820.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2024-08",
+    "cuota_mensual": 29244732.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2024-09",
+    "cuota_mensual": 41449616.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2024-10",
+    "cuota_mensual": 29287868.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2024-11",
+    "cuota_mensual": 17368651.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2024-12",
+    "cuota_mensual": 42083316.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2025-01",
+    "cuota_mensual": 36429171.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2025-02",
+    "cuota_mensual": 30063044.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2025-03",
+    "cuota_mensual": 42013652.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V020",
+    "periodo": "2025-04",
+    "cuota_mensual": 39013510.0,
+    "region": "Pacífica"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2024-01",
+    "cuota_mensual": 35326047.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2024-02",
+    "cuota_mensual": 33608193.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2024-03",
+    "cuota_mensual": 18608456.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2024-04",
+    "cuota_mensual": 37715663.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2024-05",
+    "cuota_mensual": 20186369.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2024-06",
+    "cuota_mensual": 44531040.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2024-07",
+    "cuota_mensual": 44164946.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2024-08",
+    "cuota_mensual": 39253822.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2024-09",
+    "cuota_mensual": 18785580.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2024-10",
+    "cuota_mensual": 27701247.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2024-11",
+    "cuota_mensual": 44648398.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2024-12",
+    "cuota_mensual": 28061797.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2025-01",
+    "cuota_mensual": 44918077.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2025-02",
+    "cuota_mensual": 33816786.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2025-03",
+    "cuota_mensual": 40023244.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V021",
+    "periodo": "2025-04",
+    "cuota_mensual": 22736591.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2024-01",
+    "cuota_mensual": 42324135.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2024-02",
+    "cuota_mensual": 42425218.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2024-03",
+    "cuota_mensual": 17010359.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2024-04",
+    "cuota_mensual": 26642975.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2024-05",
+    "cuota_mensual": 26920650.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2024-06",
+    "cuota_mensual": 24783804.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2024-07",
+    "cuota_mensual": 23286025.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2024-08",
+    "cuota_mensual": 28744715.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2024-09",
+    "cuota_mensual": 41203988.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2024-10",
+    "cuota_mensual": 38596519.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2024-11",
+    "cuota_mensual": 33691738.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2024-12",
+    "cuota_mensual": 30676860.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2025-01",
+    "cuota_mensual": 27587815.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2025-02",
+    "cuota_mensual": 27433272.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2025-03",
+    "cuota_mensual": 19445992.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V022",
+    "periodo": "2025-04",
+    "cuota_mensual": 32638024.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2024-01",
+    "cuota_mensual": 37751322.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2024-02",
+    "cuota_mensual": 43189500.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2024-03",
+    "cuota_mensual": 42747845.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2024-04",
+    "cuota_mensual": 31880513.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2024-05",
+    "cuota_mensual": 18029713.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2024-06",
+    "cuota_mensual": 23582786.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2024-07",
+    "cuota_mensual": 31069004.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2024-08",
+    "cuota_mensual": 25316075.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2024-09",
+    "cuota_mensual": 27326701.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2024-10",
+    "cuota_mensual": 26491304.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2024-11",
+    "cuota_mensual": 29567544.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2024-12",
+    "cuota_mensual": 33268865.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2025-01",
+    "cuota_mensual": 16123970.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2025-02",
+    "cuota_mensual": 23262424.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2025-03",
+    "cuota_mensual": 19315580.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V023",
+    "periodo": "2025-04",
+    "cuota_mensual": 33259658.0,
+    "region": "Caribe"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2024-01",
+    "cuota_mensual": 35809838.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2024-02",
+    "cuota_mensual": 16163476.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2024-03",
+    "cuota_mensual": 41687226.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2024-04",
+    "cuota_mensual": 24944822.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2024-05",
+    "cuota_mensual": 22127379.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2024-06",
+    "cuota_mensual": 37372495.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2024-07",
+    "cuota_mensual": 42625049.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2024-08",
+    "cuota_mensual": 41910941.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2024-09",
+    "cuota_mensual": 15606987.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2024-10",
+    "cuota_mensual": 39521578.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2024-11",
+    "cuota_mensual": 24091649.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2024-12",
+    "cuota_mensual": 23410400.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2025-01",
+    "cuota_mensual": 29748576.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2025-02",
+    "cuota_mensual": 35885485.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2025-03",
+    "cuota_mensual": 17946522.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V024",
+    "periodo": "2025-04",
+    "cuota_mensual": 41067001.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2024-01",
+    "cuota_mensual": 19031566.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2024-02",
+    "cuota_mensual": 44226583.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2024-03",
+    "cuota_mensual": 28293318.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2024-04",
+    "cuota_mensual": 39774700.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2024-05",
+    "cuota_mensual": 23082599.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2024-06",
+    "cuota_mensual": 27503182.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2024-07",
+    "cuota_mensual": 34366644.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2024-08",
+    "cuota_mensual": 20638071.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2024-09",
+    "cuota_mensual": 21341715.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2024-10",
+    "cuota_mensual": 39719083.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2024-11",
+    "cuota_mensual": 37228344.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2024-12",
+    "cuota_mensual": 37784799.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2025-01",
+    "cuota_mensual": 41015669.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2025-02",
+    "cuota_mensual": 39630522.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2025-03",
+    "cuota_mensual": 30458091.0,
+    "region": "Orinoquía"
+  },
+  {
+    "id_vendedor": "V025",
+    "periodo": "2025-04",
+    "cuota_mensual": 19769173.0,
+    "region": "Orinoquía"
+  }
+]

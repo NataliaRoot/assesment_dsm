@@ -1,0 +1,26 @@
+id_vendedor|nombre_vendedor|region|fecha_ingreso|tipo_contrato
+V001|Carlos Rodríguez|Caribe|2023-09-11|Indefinido
+V002|María González|Pacífica|2023-09-11|Fijo
+V003|Andrés Pérez|Caribe|2022-03-12|Fijo
+V004|Laura Martínez|Andina|2024-09-19|Indefinido
+V005|Juan Sánchez|Orinoquía|2018-03-21|Indefinido
+V006|Diana López|Pacífica|2021-06-13|Fijo
+V007|Sebastián Ramírez|Andina|2020-09-13|Indefinido
+V008|Catalina Torres||2023-06-14|Indefinido
+V009|Felipe Herrera|Caribe|2019-06-10|Indefinido
+V010|Valentina Cruz|Caribe|2020-12-21|Indefinido
+V011|Daniel Morales|Caribe|2024-01-18|Fijo
+V012|Isabella Castro|Pacífica|2022-06-23|Indefinido
+V013|Mateo Vargas|Orinoquía|2023-10-21|Indefinido
+V014|Sofía Jiménez|Andina|2020-10-12|Fijo
+V015|Santiago Ruiz|Andina|2021-10-16|Indefinido
+V016|Camila Ortiz|Caribe|2024-08-07|Fijo
+V017|Nicolás Mendoza|Andina|2018-10-18|Indefinido
+V018|Mariana Silva|Caribe|2018-10-04|Indefinido
+V019|Alejandro Pinto|PACIFICA|2018-10-18|Fijo
+V020|Paula Reyes|Pacífica|2023-06-12|Fijo
+V021|Esteban Rojas|Caribe|2024-05-27|Indefinido
+V022|Gabriela Cárdenas|Caribe|2023-04-22|Indefinido
+V023|Tomás Acosta|Caribe|2019-01-22|Indefinido
+V024|Natalia Beltrán|Orinoquía|2021-12-22|Indefinido
+V025|Cristian Suárez|Orinoquía|2023-03-28|Indefinido
